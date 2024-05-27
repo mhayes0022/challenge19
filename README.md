@@ -12,7 +12,7 @@ https://pwa-texteditor-7qhf.onrender.com/
 
 ## Credits
 
-This application is based on starter code provided by the University of Minnesota's Coding Bootcamp. 
+This application is based on starter code provided by the University of Minnesota, as an assignment for the EdX Full Stack Web Development Bootcamp run through the University. It was completed in conjunction with other students.
 
 ## License
 
