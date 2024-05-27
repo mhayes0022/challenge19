@@ -10,6 +10,8 @@ https://pwa-texteditor-7qhf.onrender.com/
 
 ## Website Screenshot
 
+![J A T E  ](https://github.com/mhayes0022/challenge19/assets/153241703/8e08b83c-8266-4a06-8af8-2c7981ac1a22)
+
 ## Credits
 
 This application is based on starter code provided by the University of Minnesota's Coding Bootcamp. 
